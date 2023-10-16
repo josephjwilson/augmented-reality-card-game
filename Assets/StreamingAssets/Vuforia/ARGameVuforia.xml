@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="British_biometric_passport" size="0.083000 0.116577" />
+    <ImageTarget name="ChrysalisPantail-OW" size="0.044000 0.044000" />
+    <ImageTarget name="QR_Card1_Vuforia" size="0.050000 0.050000" />
+  </Tracking>
+</QCARConfig>
